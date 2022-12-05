@@ -1,0 +1,22 @@
+.activ-info {
+  width: 480px;
+  height: 85px;
+  display: flex;
+  align-items: center;
+  gap: 90px;
+  background-color:#F6F8FF;
+  ;
+}
+
+.activ-info-num {
+  font-size: 22px;
+  color: #2B3442;
+  padding-left: 32px;
+}
+
+.active-info-text {
+  font-size: 13px;
+  font-weight: 400;
+  font-family: sans-serif;
+  color: #4B6A9B;
+}
